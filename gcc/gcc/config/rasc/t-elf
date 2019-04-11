@@ -1,0 +1,1 @@
+EXTRA_PARTS = crti.o crtn.o crtbegin.o crtend.o
